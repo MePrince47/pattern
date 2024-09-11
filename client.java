@@ -56,11 +56,20 @@ public class client {
     }
 }
 /*
-echo "# pattern client" >> README.md
+echo "# pattern projet" >> README.md
 git init
-git add client.java
-git commit -m "client.java"
+git add projet.java
+git commit -m "projet.java"
 git branch -M main
 git remote add origin https://github.com/MePrince47/pattern.git
 git push -u origin main
+
+Dans une nouvelle branche 
+
+git checkout -b EWONDJO  # Créer et changer de branche
+git add client.java
+git commit -m "Ajout du fichier client.java dans la nouvelle branche"
+git push -u origin EWONDJO
+
+
 */
