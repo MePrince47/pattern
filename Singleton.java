@@ -74,7 +74,7 @@ public class Singleton{
 echo "# pattern Singleton" >> README.md
 git init
 git add Singleton.java
-git commit -m "projet.java"
+git commit -m "Singleton.java"
 git branch -M main
 git remote add origin https://github.com/MePrince47/pattern.git
 git push -u origin main
