@@ -6,3 +6,4 @@
 # pattern Singleton
 # pattern Singleton
 # pattern Singleton
+# INF4067
